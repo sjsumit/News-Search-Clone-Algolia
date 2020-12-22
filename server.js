@@ -3,7 +3,7 @@ const app = express();
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const passport  = require('passport');
-const db ='mongodb+srv://sjsumit:redminote5pro@mongodb@newscluster.kg7j4.mongodb.net/testDB?retryWrites=true&w=majority';
+const db ='mongodb+srv://sjsumit:sj1234@newscluster.kg7j4.mongodb.net/testDB?retryWrites=true&w=majority';
 //require('./config/key').mongoUri;
 const users = require('./routes/api/users.js');
 const path = require('path');
