@@ -12,9 +12,6 @@ FOR CLIENT SIDE
 
 #npm i
 
-#npm start //PORT:3000
-
-
 
 FOR SERVER SIDE:
 
@@ -22,6 +19,9 @@ FOR SERVER SIDE:
 
 #npm i 
 
-#node server.js  //PORT:5000
+
+For RUNNING:
+
+#npm run dev
 
 
